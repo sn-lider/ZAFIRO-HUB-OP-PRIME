@@ -22,7 +22,7 @@ local window = library:AddWindow("Zafiro HUB paid by SN | - Bienvenido " .. disp
     can_resize = false,
 })
 
-local welcome = window:AddTab("welcome")
+local Credits = window:AddTab("welcome")
 
 Credits:AddLabel("Paid Versión By SN")
 Credits:AddLabel("espero te guste este script")
