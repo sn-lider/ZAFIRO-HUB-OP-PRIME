@@ -35,7 +35,9 @@ Credits:AddLabel("ten cuidado y")
 Credits:AddLabel("Diviertete")
 
 local AutoFarm = window:AddTab("Farm")
-
+ end
+    end
+end)
 
 -- Estado inicial
 getgenv()._AutoRepFarmEnabled = false  
